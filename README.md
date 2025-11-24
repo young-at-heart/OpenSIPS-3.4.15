@@ -1,2 +1,2 @@
-OpenSIPS-3.4.5 on Debian-11.9
+OpenSIPS-3.4.15 on Debian-11.11
 Standard residential config without TCP and TLS
